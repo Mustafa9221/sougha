@@ -1,19 +1,18 @@
 {
-  "run_at": "2026-07-03T15:14:19.011Z",
+  "run_at": "2026-07-03T16:01:11.678Z",
   "results": [
     {
-      "topic": "iPhone 16 Pro",
+      "topic": "iPhone 17 Pro",
       "cheapest": {
-        "store": "Amazon AE",
-        "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
-        "price_qar": 2559.18,
-        "price_aed": 2509,
+        "store": "Jarir",
+        "name": "Apple iPhone 17 Pro",
+        "price_qar": 4399,
         "in_stock": true,
-        "url": null,
-        "scraped_at": "2026-07-03T15:13:29.696Z"
+        "url": "https://www.jarir.com/qa-en/apple-iphone-17-pro-smartphones-jpm1724.html?childSku=666717",
+        "scraped_at": "2026-07-03T16:00:24.038Z"
       },
       "listings_found": 52,
-      "checked_at": "2026-07-03T15:13:35.337Z"
+      "checked_at": "2026-07-03T16:00:24.259Z"
     },
     {
       "topic": "iPhone 17 Pro Max",
@@ -23,10 +22,23 @@
         "price_qar": 5150,
         "in_stock": true,
         "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
-        "scraped_at": "2026-07-03T15:13:43.233Z"
+        "scraped_at": "2026-07-03T16:00:32.793Z"
       },
       "listings_found": 52,
-      "checked_at": "2026-07-03T15:13:49.790Z"
+      "checked_at": "2026-07-03T16:00:39.325Z"
+    },
+    {
+      "topic": "Samsung Galaxy S26 Ultra",
+      "cheapest": {
+        "store": "Noon",
+        "name": "Samsung Galaxy S26 Ultra Dual SIM Cobalt Violet 12GB RAM 256GB 5G - Middle East Version",
+        "price_qar": 3433,
+        "in_stock": true,
+        "url": "https://www.noon.com/qatar-en/galaxy-s26-ultra-dual-sim-cobalt-violet-12gb-ram-256gb-5g-middle-east-version/N70283856V/p/?o=cd811d5c739dfafe",
+        "scraped_at": "2026-07-03T16:00:51.292Z"
+      },
+      "listings_found": 52,
+      "checked_at": "2026-07-03T16:00:56.193Z"
     },
     {
       "topic": "PS5",
@@ -37,23 +49,10 @@
         "price_aed": 2049,
         "in_stock": true,
         "url": null,
-        "scraped_at": "2026-07-03T15:13:56.195Z"
+        "scraped_at": "2026-07-03T16:01:03.683Z"
       },
       "listings_found": 51,
-      "checked_at": "2026-07-03T15:14:04.836Z"
-    },
-    {
-      "topic": "Samsung Galaxy S25 Ultra",
-      "cheapest": {
-        "store": "Noon",
-        "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
-        "price_qar": 2913,
-        "in_stock": true,
-        "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
-        "scraped_at": "2026-07-03T15:14:17.791Z"
-      },
-      "listings_found": 52,
-      "checked_at": "2026-07-03T15:14:19.010Z"
+      "checked_at": "2026-07-03T16:01:11.677Z"
     }
   ]
 }

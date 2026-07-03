@@ -616,5 +616,63 @@
         "checked_at": "2026-07-03T15:14:19.010Z"
       }
     ]
+  },
+  {
+    "run_at": "2026-07-03T16:01:11.678Z",
+    "results": [
+      {
+        "topic": "iPhone 17 Pro",
+        "cheapest": {
+          "store": "Jarir",
+          "name": "Apple iPhone 17 Pro",
+          "price_qar": 4399,
+          "in_stock": true,
+          "url": "https://www.jarir.com/qa-en/apple-iphone-17-pro-smartphones-jpm1724.html?childSku=666717",
+          "scraped_at": "2026-07-03T16:00:24.038Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T16:00:24.259Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Apple iPhone 17 Pro Max 256 GB (eSIM only) Silver 5G With FaceTime - International Version",
+          "price_qar": 5150,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
+          "scraped_at": "2026-07-03T16:00:32.793Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T16:00:39.325Z"
+      },
+      {
+        "topic": "Samsung Galaxy S26 Ultra",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Samsung Galaxy S26 Ultra Dual SIM Cobalt Violet 12GB RAM 256GB 5G - Middle East Version",
+          "price_qar": 3433,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/galaxy-s26-ultra-dual-sim-cobalt-violet-12gb-ram-256gb-5g-middle-east-version/N70283856V/p/?o=cd811d5c739dfafe",
+          "scraped_at": "2026-07-03T16:00:51.292Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T16:00:56.193Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T16:01:03.683Z"
+        },
+        "listings_found": 51,
+        "checked_at": "2026-07-03T16:01:11.677Z"
+      }
+    ]
   }
 ]
