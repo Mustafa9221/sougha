@@ -1,0 +1,16 @@
+{
+  "name": "price-tracker",
+  "version": "1.0.0",
+  "description": "Daily price tracker: fetches hot-topic products, scrapes Amazon/Jarir/Noon, keeps the cheapest listing per product.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test-single": "node test.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

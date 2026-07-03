@@ -1,0 +1,620 @@
+[
+  {
+    "run_at": "2026-07-03T14:21:53.823Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:21:53.821Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:21:53.821Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:21:53.822Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:21:53.823Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:22:42.911Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:22:42.908Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:22:42.909Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:22:42.910Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:22:42.910Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:23:30.290Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:23:30.288Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:23:30.288Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:23:30.289Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:23:30.290Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:24:13.645Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:24:13.642Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:24:13.643Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:24:13.644Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:24:13.644Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:27:40.566Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Jarir",
+          "name": "Samsung Travel Adapter Wall Charger",
+          "price_qar": 65,
+          "in_stock": true,
+          "url": "https://www.jarir.com/qa-en/samsung-travel-adapter-device-charger-625346.html",
+          "scraped_at": "2026-07-03T14:26:45.301Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:26:45.517Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Jarir",
+          "name": "Samsung Travel Adapter Wall Charger",
+          "price_qar": 65,
+          "in_stock": true,
+          "url": "https://www.jarir.com/qa-en/samsung-travel-adapter-device-charger-625346.html",
+          "scraped_at": "2026-07-03T14:27:03.590Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:27:04.091Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Jarir",
+          "name": "Samsung Travel Adapter Wall Charger",
+          "price_qar": 65,
+          "in_stock": true,
+          "url": "https://www.jarir.com/qa-en/samsung-travel-adapter-device-charger-625346.html",
+          "scraped_at": "2026-07-03T14:27:22.776Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:27:23.316Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": {
+          "store": "Jarir",
+          "name": "Samsung Travel Adapter Wall Charger",
+          "price_qar": 65,
+          "in_stock": true,
+          "url": "https://www.jarir.com/qa-en/samsung-travel-adapter-device-charger-625346.html",
+          "scraped_at": "2026-07-03T14:27:39.865Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:27:40.566Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:37:54.582Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:37:54.579Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:37:54.580Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:37:54.581Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:37:54.581Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:45:56.955Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:45:56.952Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:45:56.953Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:45:56.953Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "error": "Could not find Chrome (ver. 127.0.6533.88). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: C:\\Users\\LEGION\\.cache\\puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.",
+        "checked_at": "2026-07-03T14:45:56.954Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:49:18.838Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (256 GB) - Natural Titanium",
+          "price_qar": 2923.32,
+          "price_aed": 2866,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:48:03.515Z"
+        },
+        "listings_found": 5,
+        "checked_at": "2026-07-03T14:48:17.603Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple iPhone 17 Pro Max 256 GB: 6.9-inch Display with ProMotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Silver",
+          "price_qar": 5200.98,
+          "price_aed": 5099,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:48:25.582Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:48:36.419Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": null,
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:48:57.395Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:49:18.837Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:52:02.911Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (256 GB) - Natural Titanium",
+          "price_qar": 2923.32,
+          "price_aed": 2866,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:50:52.344Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:51:04.948Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple iPhone 17 Pro Max 256 GB: 6.9-inch Display with ProMotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Silver",
+          "price_qar": 5200.98,
+          "price_aed": 5099,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:51:13.856Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:51:25.490Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:51:33.307Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:51:44.278Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:52:02.910Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T14:53:43.699Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (256 GB) - Natural Titanium",
+          "price_qar": 2923.32,
+          "price_aed": 2866,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:52:41.086Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:52:51.120Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple iPhone 17 Pro Max 256 GB: 6.9-inch Display with ProMotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Silver",
+          "price_qar": 5200.98,
+          "price_aed": 5099,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:52:58.629Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:53:08.674Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T14:53:15.698Z"
+        },
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:53:25.668Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": null,
+        "listings_found": 10,
+        "checked_at": "2026-07-03T14:53:43.698Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T15:06:25.646Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
+          "price_qar": 2559.18,
+          "price_aed": 2509,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:05:41.261Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:05:46.117Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Renewed) iPhone 17 Pro-Max 256 GB: 6.9-inch Display with Pro-Motion, A19 ProChip, Best Battery Life in Any iPhone Ever, ProFusion Camera System, Center Stage Front Camera; Silver",
+          "price_qar": 4692,
+          "price_aed": 4600,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:05:53.499Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:05:58.853Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Sony DualSense Wireless Controller For PlayStation 5 - White",
+          "price_qar": 213.1,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/dualsense-wireless-controller-for-playstation-5-white/N40633049A/p/?o=b3875d56f1aa898e",
+          "scraped_at": "2026-07-03T15:06:06.187Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:06:11.930Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
+          "price_qar": 2913,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
+          "scraped_at": "2026-07-03T15:06:19.729Z"
+        },
+        "listings_found": 51,
+        "checked_at": "2026-07-03T15:06:25.645Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T15:09:08.778Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
+          "price_qar": 2559.18,
+          "price_aed": 2509,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:08:22.521Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:08:27.926Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Apple iPhone 17 Pro Max 256 GB (eSIM only) Silver 5G With FaceTime - International Version",
+          "price_qar": 5150,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
+          "scraped_at": "2026-07-03T15:08:35.240Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:08:40.527Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:08:47.809Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:08:53.516Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
+          "price_qar": 2913,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
+          "scraped_at": "2026-07-03T15:09:02.586Z"
+        },
+        "listings_found": 51,
+        "checked_at": "2026-07-03T15:09:08.778Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T15:11:58.999Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
+          "price_qar": 2559.18,
+          "price_aed": 2509,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:11:10.892Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:11:17.432Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Apple iPhone 17 Pro Max 256 GB (eSIM only) Silver 5G With FaceTime - International Version",
+          "price_qar": 5150,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
+          "scraped_at": "2026-07-03T15:11:28.205Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:11:32.128Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:11:38.837Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:11:44.753Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
+          "price_qar": 2913,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
+          "scraped_at": "2026-07-03T15:11:52.803Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:11:58.998Z"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-07-03T15:14:19.011Z",
+    "results": [
+      {
+        "topic": "iPhone 16 Pro",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
+          "price_qar": 2559.18,
+          "price_aed": 2509,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:13:29.696Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:13:35.337Z"
+      },
+      {
+        "topic": "iPhone 17 Pro Max",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Apple iPhone 17 Pro Max 256 GB (eSIM only) Silver 5G With FaceTime - International Version",
+          "price_qar": 5150,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
+          "scraped_at": "2026-07-03T15:13:43.233Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:13:49.790Z"
+      },
+      {
+        "topic": "PS5",
+        "cheapest": {
+          "store": "Amazon AE",
+          "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+          "price_qar": 2089.98,
+          "price_aed": 2049,
+          "in_stock": true,
+          "url": null,
+          "scraped_at": "2026-07-03T15:13:56.195Z"
+        },
+        "listings_found": 51,
+        "checked_at": "2026-07-03T15:14:04.836Z"
+      },
+      {
+        "topic": "Samsung Galaxy S25 Ultra",
+        "cheapest": {
+          "store": "Noon",
+          "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
+          "price_qar": 2913,
+          "in_stock": true,
+          "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
+          "scraped_at": "2026-07-03T15:14:17.791Z"
+        },
+        "listings_found": 52,
+        "checked_at": "2026-07-03T15:14:19.010Z"
+      }
+    ]
+  }
+]

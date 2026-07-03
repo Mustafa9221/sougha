@@ -1,0 +1,59 @@
+{
+  "run_at": "2026-07-03T15:14:19.011Z",
+  "results": [
+    {
+      "topic": "iPhone 16 Pro",
+      "cheapest": {
+        "store": "Amazon AE",
+        "name": "Apple (Refurbished) iPhone 16 Pro (128GB) Black Titanium - Dual eSIM (US Version)",
+        "price_qar": 2559.18,
+        "price_aed": 2509,
+        "in_stock": true,
+        "url": null,
+        "scraped_at": "2026-07-03T15:13:29.696Z"
+      },
+      "listings_found": 52,
+      "checked_at": "2026-07-03T15:13:35.337Z"
+    },
+    {
+      "topic": "iPhone 17 Pro Max",
+      "cheapest": {
+        "store": "Noon",
+        "name": "Apple iPhone 17 Pro Max 256 GB (eSIM only) Silver 5G With FaceTime - International Version",
+        "price_qar": 5150,
+        "in_stock": true,
+        "url": "https://www.noon.com/qatar-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-international-version/N70211464V/p/?o=f8bb0b3f28fdbb3f",
+        "scraped_at": "2026-07-03T15:13:43.233Z"
+      },
+      "listings_found": 52,
+      "checked_at": "2026-07-03T15:13:49.790Z"
+    },
+    {
+      "topic": "PS5",
+      "cheapest": {
+        "store": "Amazon AE",
+        "name": "Sony PlayStation 5 Slim Digital Edition (2023) - International Version",
+        "price_qar": 2089.98,
+        "price_aed": 2049,
+        "in_stock": true,
+        "url": null,
+        "scraped_at": "2026-07-03T15:13:56.195Z"
+      },
+      "listings_found": 51,
+      "checked_at": "2026-07-03T15:14:04.836Z"
+    },
+    {
+      "topic": "Samsung Galaxy S25 Ultra",
+      "cheapest": {
+        "store": "Noon",
+        "name": "Samsung Galaxy S25 Ultra AI Dual SIM Titanium Grey 12GB RAM 256GB 5G - Middle East Version",
+        "price_qar": 2913,
+        "in_stock": true,
+        "url": "https://www.noon.com/qatar-en/galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-256gb-5g-middle-east-version/N70140492V/p/?o=aae72e5cba678e4a",
+        "scraped_at": "2026-07-03T15:14:17.791Z"
+      },
+      "listings_found": 52,
+      "checked_at": "2026-07-03T15:14:19.010Z"
+    }
+  ]
+}

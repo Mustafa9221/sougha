@@ -1,0 +1,42 @@
+name: Daily Price Tracker
+
+on:
+  schedule:
+    # Runs once a day at 06:00 UTC. Change the cron if you want a
+    # different time — GitHub may delay this by a few minutes under load.
+    - cron: '0 6 * * *'
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run price tracker
+        env:
+          HOT_TOPICS_API_URL: ${{ secrets.HOT_TOPICS_API_URL }}
+          HOT_TOPICS_API_KEY: ${{ secrets.HOT_TOPICS_API_KEY }}
+          HOT_TOPICS_API_PATH: ${{ secrets.HOT_TOPICS_API_PATH }}
+          HOT_TOPICS_FIELD: ${{ secrets.HOT_TOPICS_FIELD }}
+        run: node index.js
+
+      - name: Commit updated results
+        run: |
+          git config user.name "price-tracker-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --quiet --cached || git commit -m "Update prices: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
